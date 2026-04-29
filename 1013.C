@@ -1,3 +1,12 @@
+/* --------------------------------------------------------------------------
+Disciplina  : Lógica de Programação, turma IB, 2026S1
+Nome        : <<<Gabriel Nunes de Abreu de Lima Moraes>>>
+Linguagem   : C
+Problema    : https://judge.beecrowd.com/pt/problems/view/1013
+Data        : 29/04/2026
+Objetivo    : Ler três valores inteiros e mostrar a soma.
+Aprendizado : <<<Aprende a utilizar váriaveis, o comando scanf e contas básicas usando a linguagem C>>>
+-------------------------------------------------------------------------- */
 #include <stdlib.h>
 
 int main() {
