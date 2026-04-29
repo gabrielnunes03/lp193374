@@ -1,3 +1,12 @@
+/* --------------------------------------------------------------------------
+Disciplina  : Lógica de Programação, turma IB, 2026S1
+Nome        : <<<Gabriel Nunes de Abreu de Lima Moraes>>>
+Linguagem   : C
+Problema    : https://judge.beecrowd.com/pt/problems/view/2757
+Data        : 29/04/2026
+Objetivo    : Movimentar numeros inteiros.
+Aprendizado : <<<Ensina a mexer com a posição dos números inteiros>>>
+-------------------------------------------------------------------------- */
 #include <stdio.h>
 
 int main() {
