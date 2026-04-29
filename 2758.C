@@ -1,4 +1,12 @@
-
+/* --------------------------------------------------------------------------
+Disciplina  : Lógica de Programação, turma IB, 2026S1
+Nome        : <<<Gabriel Nunes de Abreu de Lima Moraes>>>
+Linguagem   : C
+Problema    : https://judge.beecrowd.com/pt/problems/view/2758
+Data        : 29/04/2026
+Objetivo    : Mexer com numeros reais.
+Aprendizado : <<<Aprender como funciona float, double e suas características>>>
+-------------------------------------------------------------------------- */
 #include <stdio.h>
 
 int main() {
