@@ -6,7 +6,6 @@ Problema    : https://judge.beecrowd.com/pt/problems/view/1241
 Data        : 23/06/2026
 Objetivo    : Ver se encaixa o valor final de B em A.
 Aprendizado : <<<String Recursivo>>>
-Pergunta de segunda ordem: <<<Fazer a pergunta>>>
 -------------------------------------------------------------------------- */
 
 #include <stdio.h>
