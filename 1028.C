@@ -2,7 +2,7 @@
 Disciplina  : Lógica de Programação, turma IB, 2026S1
 Nome        : <<<Gabriel Nunes de Abreu de Lima Moraes>>>
 Linguagem   : C
-Problema    : https://judge.beecrowd.com/pt/problems/view/1169
+Problema    : https://judge.beecrowd.com/pt/problems/view/1028
 Data        : 23/06/2026
 Objetivo    : dividir as figurinhas em pilhas e trocar com os amigos
 Aprendizado : <<treino de recursão com matemática básica>>>
