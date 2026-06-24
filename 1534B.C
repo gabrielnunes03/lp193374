@@ -1,3 +1,12 @@
+/* --------------------------------------------------------------------------
+Disciplina  : Lógica de Programação, turma IB, 2026S1
+Nome        : <<<Gabriel Nunes de Abreu de Lima Moraes>>>
+Linguagem   : C
+Problema    : https://judge.beecrowd.com/pt/problems/view/1534
+Data        : 23/06/2026
+Objetivo    : Fazer uma matriz, sem usar o operador.
+Aprendizado : <<<Aprende como se fazer uma matriz simples usando apenas 2 for, sem usando a operação e fazendo direto>>>
+-------------------------------------------------------------------------- */
 #include <stdio.h>
 
 int main() {
