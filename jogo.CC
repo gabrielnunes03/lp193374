@@ -1,3 +1,12 @@
+/* --------------------------------------------------------------------------
+Disciplina  : Lógica de Programação, turma IB, 2026S1
+Nome        : <<<Gabriel Nunes de Abreu de Lima Moraes>>>
+Linguagem   : C
+Problema    : jogo de sudoku
+Data        : 23/06/2026
+Objetivo    : fazer um código que pode resolver um jogo de sudoku
+Aprendizado : <<reune tudo que aprendemos até agora num projeto BEM mais detalhado>>>
+-------------------------------------------------------------------------- */
 #include <stdio.h>
 
 int tabuleiro[9][9];
