@@ -4,7 +4,7 @@ Nome        : <<<Gabriel Nunes de Abreu de Lima Moraes>>>
 Linguagem   : C
 Problema    : jogo de sudoku
 Data        : 23/06/2026
-Objetivo    : fazer um código que pode resolver um jogo de sudoku
+Objetivo    : fazer um código que pode resolver um jogo de sudoku (usei o jogo 2 pra testar e deu certo)
 Aprendizado : <<reune tudo que aprendemos até agora num projeto BEM mais detalhado>>>
 -------------------------------------------------------------------------- */
 #include <stdio.h>
